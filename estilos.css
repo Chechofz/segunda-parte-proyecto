@@ -1,0 +1,112 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.fondo-nav {
+    background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
+}
+
+h1 {
+    text-align: center;
+    padding: 20px;
+    font-size: 25px;
+    color: #b2afc7;
+}
+
+h1 {
+    background-color: rgba(41, 79, 129, 0.856);
+    margin-bottom: 0;
+}
+
+.destacados {
+    height: 500px;
+    width: 100%;
+}
+
+.row {
+    height: 500px;
+}
+
+.matcin {
+    background-image: url(img/cincelado.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.mattre {
+    background-image: url(img/trenzado.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.matuy {
+    background-image: url(img/uruguayo.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+h2 {
+    background-color: rgba(41, 79, 129, 0.856);
+    margin: 0;
+    text-align: center;
+    padding: 20px;
+    font-size: 25px;
+    color: #b2afc7;
+}
+
+
+.dire {
+    text-align: center;
+}
+
+.ubicacion {
+    width: 100%;
+    background-color: rgba(41, 79, 129, 0.856);
+    margin: 0;
+}
+
+
+.footer {
+
+    width: 100%;
+    grid-area: footer;
+    background-color: rgba(41, 79, 129, 0.856);
+    font-size: 22px;
+    padding: 10px;
+    text-align: center;
+}
+
+.redess {
+    color: #f5f5dc;
+    letter-spacing: 15px;
+}
+
+
+/*CONTACTO*/
+
+.registro {
+    text-align: center;
+    font-size: 25px;
+    background-color: rgba(41, 79, 129, 0.856);
+}
+
+
+/*beneficios*/
+
+.contenedor2 {
+    background-color: rgba(41, 79, 129, 0.856);
+    width: 100%;
+}
+
+h3 {
+    text-align: center;
+    color: #b2afc7;
+}
+
+.main p {
+    color: #000000;
+    padding: 8px;
+    text-align: left;
+    margin: 0;
+}
